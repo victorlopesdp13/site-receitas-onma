@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header-one{
+    height: 80px;
+    background-color: #FFC107;
+    text-align: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    
+}
+.header-one a{
+    width: 324px;
+    height: 84px;
+    justify-content: center;
+    
+}
+.header-two{
+    height: 40px;
+    background-color: #FFA000;
+    padding-top: 20px;
+    text-align: center; 
+    padding-left: 40px; 
+    width: 100%;  
+}
+.header-two a {
+    
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 58px;
+    
+    
+}
+main h1 {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    color: #FFA000;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-left: 120px;
+}
+.div-main{
+    display: flex;
+    margin-left: 120px;
+    
+}
+.div-main .section-one {
+    margin-bottom: 40px;
+}
+.div-main .section-one .div-span  {
+    margin-top: 20px;
+}
+.div-main .section-one span {
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+    color: 
+    #176902;
+    border: 1px solid 
+    #176902;
+    border-radius: 20px;
+    margin-right: 15px;
+}
+.div-main .section-one h2{
+    margin-top: 15px;
+    font-size: 20px;
+}
+.div-main .section-one p {
+    width: 400px;
+    margin-top: 15px;
+}
+.div-main .section-two {
+    margin-left: 192px;
+}
+.div-main .section-two h3{
+    color: 
+    #FFA000;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.div-main .section-two  .div-card {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+.div-main .section-two  .div-card span {
+    width: 345px;
+    height: 55px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+    color: #000000;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-top: 25px;
+}
+
+
+
+footer{
+    height: 90px;
+    background-color: #FFC107;
+    display: flex;
+}
+footer a {
+    margin-left: 10px;
+}
+footer span{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 35px;
+    font-size: 18px;
+    margin-left: 20px;
+}

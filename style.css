@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header-one{
+    height: 80px;
+    background-color: #FFC107;
+    text-align: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    
+}
+.header-one a{
+    width: 324px;
+    height: 84px;
+    justify-content: center;
+    
+}
+.header-two{
+    height: 40px;
+    background-color: #FFA000;
+    padding-top: 20px;
+    text-align: center; 
+    padding-left: 40px; 
+    width: 100%;  
+    
+}
+.header-two a {
+    
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 58px;
+    
+    
+}
+main .section-one{
+    
+    background-image: url("/onma/imagens/image\ 1\ \(2\).png");
+    height: 638px;
+}
+
+main .section-one h1{
+    font-size: 70px;
+    font-weight: 700;
+    width: 300px;
+    height: 170px;
+    color: #fff;
+    margin-left: 969px;
+    padding-top: 150px;
+}
+
+main .section-two{
+    display: flex;
+    height: 650px;
+    justify-content: center;
+}
+main .section-two img {
+    border-radius: 20px;
+}
+main  h2{
+    color: #FFA000;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 70px;
+}
+main .section-two div {
+    width: 345px;
+    height: 342px;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 75px;
+    flex-direction: column;
+    
+}
+main .section-two div span{
+    font-size: 26px;
+    font-weight: 600;
+    color: #000000;
+    text-align: center;
+    margin-top: 12px;
+}
+main .section-two div a {
+    width: 185px;
+    text-decoration: none;
+    background-color: #176902;
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 40px;
+    
+}
+
+.section-three{
+    height: 772px;
+    width: 100%;
+    background-image: url("/onma/imagens/image\ 2\ \(1\).png");
+}
+.section-three h3{
+    font-size: 65px;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 163px;
+    margin-left: 122px;
+}
+.section-three p {
+    width: 324px;
+    height: 160px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+    margin-left: 122px;
+}
+.section-three div{
+    margin-top: 80px;
+}
+footer{
+    height: 90px;
+    background-color: #FFC107;
+    display: flex;
+}
+footer a {
+    margin-left: 10px;
+}
+footer span{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 35px;
+    font-size: 18px;
+    margin-left: 20px;
+}
